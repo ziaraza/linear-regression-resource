@@ -1,1 +1,1 @@
-# linear-regression-resource
+# linear-regression resource
